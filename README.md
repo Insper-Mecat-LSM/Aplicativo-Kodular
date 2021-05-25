@@ -48,6 +48,15 @@ Feito isso vamos colocar os dois botões na tela.
 
 <a href="https://imgur.com/PEUPaye"><img src="https://imgur.com/PEUPaye.jpg" title="source: imgur.com" /></a>
 
+- Na parte direita da sua tela você tem a janela de configuração do objeto que você quer editar, por exemplo iremos editar os botões do bluetooth, com um botão por vez selecionado nós iremos configurar o seu texto que é preenchido dentro do botão, o seu tamanho e largura para que fique do tamanho que a gente quer na tela e também a sua cor.
+
+<a href="https://imgur.com/FjF6Z3D"><img src="https://imgur.com/FjF6Z3D.jpg" title="source: imgur.com" /></a>
+
+- Agora iremos colocar os dois botões de ligar e desligar o led, siga os mesmos passos feito acima e edite os botões da forma que você quer:
+
+<a href="https://imgur.com/KUE3opf"><img src="https://imgur.com/KUE3opf.jpg" title="source: imgur.com" /></a>
+
+
 
 
 
