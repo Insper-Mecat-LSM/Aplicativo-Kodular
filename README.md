@@ -62,6 +62,23 @@ Utilizaremos algumas ferramentas do Kodular, para que o bluetooth do celular se 
 
 <a href="https://imgur.com/e9Nnfvr"><img src="https://imgur.com/e9Nnfvr.jpg" title="source: imgur.com" /></a>
 
+Agora colocaremos, a ferramenta que será utilizada para mostrar a lista de bluetooth que o seu celular vai encontrar e também uma ferramenta para mostrar notificações no decorrer do seu aplicativo.
+
+- Siga os passos: **User Interface -> List Picker** Arraste até a tela do celular, essa ferramenta vai ficar a mostra do celular mas não é isso que queremos, então vamos deixar essa ferramenta invisivel, com a ferramenta selecionada vá na parte direita do site, e desmarque a caixa **Visible**:
+
+<a href="https://imgur.com/uAazAPC"><img src="https://imgur.com/uAazAPC.jpg" title="source: imgur.com" /></a>
+
+Por último colocaremos a ferramenta de Notificação.
+
+- Abaixo da ferramenta que você selecionou o **List Picker** vá até uma outra chamada **Notifier** clique e arraste para a tela do celular, essa não ficará visivel na tela:
+
+<a href="https://imgur.com/undefined"><img src="https://imgur.com/undefined.jpg" title="source: imgur.com" /></a>
+
+
+
+
+
+
 
 
 
