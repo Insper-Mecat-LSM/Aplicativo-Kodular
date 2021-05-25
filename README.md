@@ -16,7 +16,13 @@ A primeira coisa a se fazer é se cadastrar no site do Kodular, clique em **Crea
 
 <a href="https://imgur.com/Q6GzWrk"><img src="https://imgur.com/Q6GzWrk.jpg" title="source: imgur.com" /></a>
 
-Feito isso 
+Feito isso, você pode dá inicio ao seu novo projeto. Vá até **Create Project** e dê um nome a ele (Sem espaços).
+
+<a href="https://imgur.com/LirSaGS"><img src="https://imgur.com/LirSaGS.jpg" title="source: imgur.com" /></a>
+
+Após essa janela, vai abrir um outra para você configurar o tema do seu aplicativo, a versão do seu android e as cores do seu aplicativo.
+
+<a href="https://imgur.com/NWNyBgC"><img src="https://imgur.com/NWNyBgC.jpg" title="source: imgur.com" /></a>
 
 
 
