@@ -16,6 +16,7 @@ A primeira coisa a se fazer é se cadastrar no site do Kodular, clique em **Crea
 
 <a href="https://imgur.com/Q6GzWrk"><img src="https://imgur.com/Q6GzWrk.jpg" title="source: imgur.com" /></a>
 
+Feito isso 
 
 
 
