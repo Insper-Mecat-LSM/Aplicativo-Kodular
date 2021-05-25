@@ -52,9 +52,17 @@ Feito isso vamos colocar os dois botões na tela.
 
 <a href="https://imgur.com/FjF6Z3D"><img src="https://imgur.com/FjF6Z3D.jpg" title="source: imgur.com" /></a>
 
-- Agora iremos colocar os dois botões de ligar e desligar o led, siga os mesmos passos feito acima e edite os botões da forma que você quer:
+- Agora iremos colocar os dois botões de ligar e desligar o led, siga os mesmos passos feito acima e edite os botões da forma que você quer.
 
 <a href="https://imgur.com/KUE3opf"><img src="https://imgur.com/KUE3opf.jpg" title="source: imgur.com" /></a>
+
+Utilizaremos algumas ferramentas do Kodular, para que o bluetooth do celular se conecte com o bluetooth HC-05. Para que isso seja feito, siga os seguintes passos:
+
+- Novamente no canto esquerdo da sua tela, vá em **Connectivity -> Bluetooth Client** e arraste para a tela do celular, como é uma ferramenta do seu celular, não vai aparecer nada na tela, mas você deverá ver na parte de Components:
+
+<a href="https://imgur.com/e9Nnfvr"><img src="https://imgur.com/e9Nnfvr.jpg" title="source: imgur.com" /></a>
+
+
 
 
 
