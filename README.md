@@ -8,7 +8,7 @@ Montar um aplicativo rápido e fácil, usando o Kodular.
 
 ## Introdução:
 
-Neste tutorial iremos ensinar como projetar um aplicativo usando o site kolular [link](https://www.kodular.io/), vamos mostrar como montar uma tela para o seu celular e também programando usando a linguagem scracth, o objetivo desse aplicativo será ligar e desligar 3 leds, usando o bluetooth HC-05 e uma placa NUCLEO STM32.
+Neste tutorial iremos ensinar como projetar um aplicativo usando o site kolular [link](https://www.kodular.io/), vamos mostrar como montar uma tela para o seu celular e também programando usando a linguagem scracth, o objetivo desse aplicativo será ligar e desligar 1 led, usando o bluetooth HC-05 e uma placa NUCLEO STM32.
 
 # Primeiros Passos com o Kodular:
 
@@ -107,6 +107,18 @@ Está feito o seu aplicativo a também a codificação do aplicativo.
 Na parte superior do site vai ter uma caixa escrita **Export**, clique nela e depois em **Android app(.apk)**.
 
 <a href="https://imgur.com/KQJ87dw"><img src="https://imgur.com/KQJ87dw.jpg" title="source: imgur.com" /></a>
+
+O site vai começar a exportar o seu aplicativo e vai aparecer um QR.code para que você scaneie com a câmera do seu celular. 
+
+<a href="https://imgur.com/FNzbdAM"><img src="https://imgur.com/FNzbdAM.jpg" title="source: imgur.com" /></a>
+
+Siga os passos que o seu celular vai te direcionar e aceite fazer o download, provavelmente uma mensagem vai aparecer no celular dizendo que esse aplicativo não é confiavel porque ele não saiu diretamente da sua loja de aplicativos (Play Store).
+
+- Imagens da instalação no celular, aplicativo funcionando e também do icone que vai aparecer no menu do seu celular:
+
+<a href="https://imgur.com/5NwXRgl"><img src="https://imgur.com/5NwXRgl.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/IUsCWGI"><img src="https://imgur.com/IUsCWGI.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/EgTgVdG"><img src="https://imgur.com/EgTgVdG.jpg" title="source: imgur.com" /></a>
 
 
 
