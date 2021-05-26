@@ -120,6 +120,11 @@ Siga os passos que o seu celular vai te direcionar e aceite fazer o download, pr
 <a href="https://imgur.com/IUsCWGI"><img src="https://imgur.com/IUsCWGI.jpg" title="source: imgur.com" /></a>
 <a href="https://imgur.com/EgTgVdG"><img src="https://imgur.com/EgTgVdG.jpg" title="source: imgur.com" /></a>
 
+## Projeto Finalizado
+
+Pronto nosso projeto foi finalizado com êxito agora é sua vez de fazer os testes, use o outro tutorial que o mesmo autor fez para codificação da sua placa NUCLEO STM32 [link](https://github.com/Insper-Mecat-LSM/NUCLEO-STM32-HC-05) lembre de mantes os mesmos dados (caracteres) de envio na codificação scratch e também na codificação do código mBed. Qualquer dúvida pode entrar em contato ![Gmail Badge](https://img.shields.io/badge/-camposhugo029@gmail.com-c71610?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camposhugo029@gmail.com)
+
+
 
 
 
