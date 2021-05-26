@@ -72,7 +72,26 @@ Por último colocaremos a ferramenta de Notificação.
 
 - Abaixo da ferramenta que você selecionou o **List Picker** vá até uma outra chamada **Notifier** clique e arraste para a tela do celular, essa não ficará visivel na tela:
 
-<a href="https://imgur.com/undefined"><img src="https://imgur.com/undefined.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/xhZ7vet"><img src="https://imgur.com/xhZ7vet.jpg" title="source: imgur.com" /></a>
+
+Finalizamos a parte gráfica do aplicativo.
+
+# Iniciando a Codificação do seu Aplicativo:
+
+Na parte superior direita do site, vai ter uma caixa chamada **Block** clique nela e o site vai te levar para uma tela de codificação em blocos:
+
+<a href="https://imgur.com/dOov6uC"><img src="https://imgur.com/dOov6uC.jpg" title="source: imgur.com" /></a>
+
+- Irei dividir em duas partes essa codificação, uma parte em que configuramos as configurações do bluetooth e também a outra de envio de dados de acordo com o botão que apertamos.
+
+- Inicializando o Bluetooth
+Irei deixar imagens dos blocos que usei nessa parte de bluetooth, siga exatamente da forma que eu fiz:
+
+<a href="https://imgur.com/GFDiTJF"><img src="https://imgur.com/GFDiTJF.jpg" title="source: imgur.com" /></a>
+
+
+
+
 
 
 
