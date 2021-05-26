@@ -87,7 +87,14 @@ Na parte superior direita do site, vai ter uma caixa chamada **Block** clique ne
 - Inicializando o Bluetooth
 Irei deixar imagens dos blocos que usei nessa parte de bluetooth, siga exatamente da forma que eu fiz:
 
+- Inicio de configuração do Bluetooth:
+
 <a href="https://imgur.com/GFDiTJF"><img src="https://imgur.com/GFDiTJF.jpg" title="source: imgur.com" /></a>
+
+- Configurando os botões **conectar** e **desconectar**:
+
+<a href="https://imgur.com/hugme2R"><img src="https://imgur.com/hugme2R.jpg" title="source: imgur.com" /></a>
+
 
 
 
