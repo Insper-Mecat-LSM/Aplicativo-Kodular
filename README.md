@@ -100,6 +100,15 @@ Irei deixar imagens dos blocos que usei nessa parte de bluetooth, siga exatament
 <a href="https://imgur.com/fPWgS4a"><img src="https://imgur.com/fPWgS4a.jpg" title="source: imgur.com" /></a>
 <a href="https://imgur.com/6ypdolh"><img src="https://imgur.com/6ypdolh.jpg" title="source: imgur.com" /></a>
 
+Está feito o seu aplicativo a também a codificação do aplicativo.
+
+## Exportando para o Celular:
+
+Na parte superior do site vai ter uma caixa escrita **Export**, clique nela e depois em **Android app(.apk)**.
+
+<a href="https://imgur.com/KQJ87dw"><img src="https://imgur.com/KQJ87dw.jpg" title="source: imgur.com" /></a>
+
+
 
 
 
