@@ -95,6 +95,13 @@ Irei deixar imagens dos blocos que usei nessa parte de bluetooth, siga exatament
 
 <a href="https://imgur.com/hugme2R"><img src="https://imgur.com/hugme2R.jpg" title="source: imgur.com" /></a>
 
+- Configurando os botões que vai **Ligar** e **Desligar** o led, e vamos setar um carácter que cada botão vai enviar para o bluetooth:
+
+<a href="https://imgur.com/fPWgS4a"><img src="https://imgur.com/fPWgS4a.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/6ypdolh"><img src="https://imgur.com/6ypdolh.jpg" title="source: imgur.com" /></a>
+
+
+
 
 
 
