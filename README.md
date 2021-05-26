@@ -8,7 +8,7 @@ Montar um aplicativo rápido e fácil, usando o Kodular.
 
 ## Introdução:
 
-Neste tutorial iremos ensinar como projetar um aplicativo usando o site kolular [link](https://www.kodular.io/), vamos mostrar como montar uma tela para o seu celular e também programando usando a linguagem scracth, o objetivo desse aplicativo será ligar e desligar 1 led, usando o bluetooth HC-05 e uma placa NUCLEO STM32.
+Neste tutorial iremos ensinar como projetar um aplicativo usando o site kolular [link](https://www.kodular.io/), vamos mostrar como montar uma tela para o seu celular e também programando usando a linguagem scratch, o objetivo desse aplicativo será ligar e desligar 1 led, usando o bluetooth HC-05 e uma placa NUCLEO STM32.
 
 # Primeiros Passos com o Kodular:
 
@@ -38,13 +38,13 @@ No meu caso o que melhor se encaixa é o **Samsung Galaxy S9**.
 
 Como disse no inicio, iremos fazer um projeto simples. Para começar vamos colocar dois botões um para conectar o bluetooth e outro para desconectar o bluetooth.
 
-- No canto esquerdo da tela, siga os seguintes passos: **Layout -> General -> Horizontal Arregement** e arraste até a tela do celular e solte. Deverá ficar dessa forma:
+- No canto esquerdo da tela, siga os seguintes passos: **Layout -> General -> Horizontal Arregement** e arraste até a tela do celular e solte, deverá ficar dessa forma:
 
 <a href="https://imgur.com/B4T3UWK"><img src="https://imgur.com/B4T3UWK.jpg" title="source: imgur.com" /></a>
 
 Feito isso vamos colocar os dois botões na tela.
 
-- Novamente no canto esquerdo da tela, siga os seguintes passos: **User Interface -> Button** e arraste o button até dentro do Horizontal Arregement, como iremos usar dois botões coloque um do lado do outro. Os botões ficarão dessa forma:
+- Novamente no canto esquerdo da tela, siga os seguintes passos: **User Interface -> Button** e arraste o button até dentro do Horizontal Arregement, como iremos usar dois botões coloque um do lado do outro. Os botões vão ficar dessa forma:
 
 <a href="https://imgur.com/PEUPaye"><img src="https://imgur.com/PEUPaye.jpg" title="source: imgur.com" /></a>
 
